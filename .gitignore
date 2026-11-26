@@ -10,3 +10,5 @@ missions_output.json
 *.zip
 __pycache__/
 .venv/
+.pytest-cache/
+.pytest_cache/
